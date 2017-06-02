@@ -5,8 +5,18 @@
 html, body {
   padding: 0;
   margin: 0;
+  border: 0;
+  background-color: #255F6F
 }
-
-/*
-  Now, your CSS
-*/
+#Intro {
+  font-size: 10px;
+  font-style: italic;
+  font-size: 25px;
+  color: #3BAEB0;
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  width: 45%;
+  text-align: center;
+  margin: 1%;
+}
